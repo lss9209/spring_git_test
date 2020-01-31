@@ -73,10 +73,10 @@ local.properties
 # End of https://www.gitignore.io/api/eclipse
 
 
-.metadata/
-Servers/
-*.class
-*.classpath
-/target/
+.metadata/ 
+Servers/ 
+*.class 
+*.classpath 
+/target/ 
 /bin/
 /.settings/
