@@ -71,3 +71,12 @@ local.properties
 .sts4-cache/
 
 # End of https://www.gitignore.io/api/eclipse
+
+
+.metadata/
+Servers/
+*.class
+*.classpath
+/target/
+/bin/
+/.settings/
