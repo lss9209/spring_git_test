@@ -16,10 +16,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 // 1¹øÃß°¡
-<<<<<<< HEAD
-=======
+
+
 // 2¹øÃß°¡
->>>>>>> parent of 6253d1a... í™ˆì»¨íŠ¸ë¡¤ëŸ¬3ì— 3ë²ˆì¶”ê°€
+
+// 2¹øÃß°¡
+
 @Controller
 public class HomeController3 {
 	
